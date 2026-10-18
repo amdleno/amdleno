@@ -32,4 +32,4 @@ This repository serves as a portfolio and library of scripts. The goal is to sha
 ## 📫 Let's connect
 I am always open to discussing IAM, security, and automation.
 *   **LinkedIn:** [linkedin.com/in/epds](https://www.linkedin.com/in/epds)
-*   **Email:** elenilson.psantos95@gmail.com
+*   **Email:** elenilson.psantos95@hotmail.com
